@@ -62,3 +62,20 @@ table {
   float: right;
   padding: 15px;
 }
+
+.welcome-page {
+	background-color: rgb(136, 154, 231);
+	padding: 30px;
+	margin: auto;
+	margin-top: 100px;
+	width: 50%;
+	border: 2px solid rgb(200, 200, 200);
+}
+
+.welcome-text {
+	background-color: rgb(200, 200, 200);
+	color: rgb(50, 50, 50);
+	text-align: center;
+	padding: 20px;
+	border: 2px solid rgb(50, 50, 50);
+}
